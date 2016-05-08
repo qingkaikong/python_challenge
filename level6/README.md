@@ -1,0 +1,3 @@
+Level 6: http://www.pythonchallenge.com/pc/def/channel.html
+
+For this challenge, I can not find any clue. When checking with the source of the webpage, we can see the comments 'zip', then I try to download channel.zip, I downloaded a compressed file. After unzipped, we can see from the readme file that start from XXXXX, then when I loop through the chain, it stopped at the one with 'Collect the comments'. Then I get totally lost, until I checked online that it seems the clue is at the zipfile module comments. 
