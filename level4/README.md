@@ -1,0 +1,1 @@
+Level 4 supposed to be in http://www.pythonchallenge.com/pc/def/linkedlist.html, but it seems there's something wrong. 
