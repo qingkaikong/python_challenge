@@ -1,0 +1,3 @@
+Level 5: http://www.pythonchallenge.com/pc/def/peak.html
+
+This one is really interesting, when you check the webpage source, and you see 'peak hell'. And the hint is 'pronounce it'. It sounds like 'pickle', isn't it? Also, you can see <peakhell src="banner.p"/>, which contains a file. When download this file, and we found that this file can be opened by pickle. It seems ask us to generate an ascii figure. 
