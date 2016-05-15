@@ -1,0 +1,3 @@
+Level 8 http://www.pythonchallenge.com/pc/def/integrity.html
+
+This challenge is unexpected easy. When I check the page source, I found un/pw a series of string, I immediately think that I should translate this into human readable word. Checked online, these are bz2-compressed unicode strings, can be easily decoded. I also notice there's a coordinates in the source page, which makes me thinking these may related with the coordinates of the image, and then I can find a link. So I go back to the image, I accidentally found the image is clickable. After I click it, it pop up a window asking user name and password. I just input the one I got, suddenly it jumps to level 9! Much easier than I thought.
