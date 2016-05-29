@@ -1,0 +1,3 @@
+level 9 http://www.pythonchallenge.com/pc/return/good.html
+
+The title of the page is connecting the dots. And you do see the black dots on the figure, so it must be related with that. Also, it gives first/second with the numbers. Looks like the location of the dots. Also it gives the hint first + second = ?, I tried to add them up, it is 122018. Nothing is clear. Then I found some hints online, so this challenge I cheated.  
